@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PanificadoraAPI.Api.props" />
+</Project>
